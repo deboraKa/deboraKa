@@ -49,6 +49,7 @@
 
 <p align="center">
   <div style="display: inline_block">
+    <a href="#"><img src="https://img.shields.io/badge/MBA%20Engenharia%20de%20Sofware-0D1117?style=for-the-badge&logo=science&logoColor=ed30cf"></a>
     <a href="#"><img src="https://img.shields.io/badge/Ciência%20de%20Dados-0D1117?style=for-the-badge&logo=science&logoColor=ed30cf"></a>
   </div>
 </p>
