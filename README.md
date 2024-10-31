@@ -7,7 +7,7 @@
 
 <div align='center'>
 
-<h2 align="center">Status</h2>
+<h2 align="center">GitHub Status</h2>
 
 <div align="center">
   
@@ -17,45 +17,44 @@
 
 <br>
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Tecnologias e Ferramentas</h2>
 
 <p align="center">
   <div style="display: inline_block">
     <a href="#"><img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sql&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/ReactJS-0D1117?style=for-the-badge&logo=react&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=node.js&logoColor=ed30cf"></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=ed30cf"></a>
-  </div>
-</p>
-<br>
-
-<h2 align="center">Estudando</h2>
-
-<p align="center">
-  <div style="display: inline_block">
-    <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud%20Computing-0D1117?style=for-the-badge&logo=googlecloud&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Oracle%20SQL-0D1117?style=for-the-badge&logo=oracle&logoColor=ed30cf"></a>
     <a href="#"><img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=ed30cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=ed30cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=machine-learning&logoColor=ed30cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Big%20Data-0D1117?style=for-the-badge&logo=bigdata&logoColor=ed30cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=devops&logoColor=ed30cf"></a>
   </div>
 </p>
 <br>
 
-<h2 align="center">Cursando</h2>
+<h2 align="center">Atualmente Estudando</h2>
 
 <p align="center">
   <div style="display: inline_block">
-    <a href="#"><img src="https://img.shields.io/badge/MBA%20Engenharia%20de%20Sofware-0D1117?style=for-the-badge&logo=science&logoColor=ed30cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=ed30cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=ai&logoColor=ed30cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=engineering&logoColor=ed30cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge&logo=mlops&logoColor=ed30cf"></a>
+  </div>
+</p>
+<br>
+
+<h2 align="center">Formação Acadêmica</h2>
+
+<p align="center">
+  <div style="display: inline_block">
+    <a href="#"><img src="https://img.shields.io/badge/MBA%20em%20Engenharia%20de%20Software-0D1117?style=for-the-badge&logo=school&logoColor=ed30cf"></a>
     <a href="#"><img src="https://img.shields.io/badge/Ciência%20de%20Dados-0D1117?style=for-the-badge&logo=science&logoColor=ed30cf"></a>
   </div>
 </p>
 <br>
 
-<h2 align="center">Interesse em Estudar</h2>
+<h2 align="center">Interesses de Estudo Futuro</h2>
 
 <p align="center">
   <div style="display: inline_block">
