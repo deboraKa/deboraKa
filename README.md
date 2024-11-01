@@ -37,6 +37,7 @@
 <p align="center">
   <div style="display: inline_block">
     <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=ed30cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=aws&logoColor=ed30cf"></a>
     <a href="#"><img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=ai&logoColor=ed30cf"></a>
     <a href="#"><img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=engineering&logoColor=ed30cf"></a>
     <a href="#"><img src="https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge&logo=mlops&logoColor=ed30cf"></a>
