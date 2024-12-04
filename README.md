@@ -1,69 +1,78 @@
-<div align='center'>
+<div align="center">
   <h1>Olá, eu sou a Débora Karine Cassimiro! 👋</h1>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ed30cf&height=90&section=header" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&weight=500&color=f12385&size=20&center=true&vCenter=true&width=1000&lines=print("Bem-vindo!"))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&weight=500&color=f12385&size=20&center=true&vCenter=true&width=1000&lines=Bem-vindo!+Explore+meus+projetos+e+interesses!)](https://git.io/typing-svg)
 
-<div align='center'>
+---
 
-<h2 align="center">GitHub Status</h2>
+## Sobre mim
 
-<div align="center">
-  
-![deboraKa GitHub stats](https://github-readme-stats.vercel.app/api?username=deboraKa&show_icons=true&theme=radical)
+🎓 **Formação Acadêmica**  
+- MBA em Engenharia de Software (Cursando)  
+- Formação em Ciência de Dados  
 
-</div>
+💻 **Áreas de Interesse**  
+- Inteligência Artificial  
+- Cloud Computing 
+- Modelos de Linguagem (LLMs) e IA Generativa  
 
-<br>
+📚 **Estudando atualmente**  
+- AWS Cloud Practitioner  
+- Deep Learning  
+- Prompt Engineering  
+- Inglês  
 
-<h2 align="center">Tecnologias e Ferramentas</h2>
+---
 
-<p align="center">
-  <div style="display: inline_block">
-    <a href="#"><img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sql&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=machine-learning&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Big%20Data-0D1117?style=for-the-badge&logo=bigdata&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=devops&logoColor=ed30cf"></a>
-  </div>
-</p>
-<br>
+## Tecnologias e Ferramentas
 
-<h2 align="center">Atualmente Estudando</h2>
+### Linguagens e Ferramentas Principais
+- Python  
+- SQL  
+- Linux  
+- Git  
+- Cloud Computing  
+- Inteligência Artificial  
 
-<p align="center">
-  <div style="display: inline_block">
-    <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=aws&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=ai&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=engineering&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Ia%20Generativa-0D1117?style=for-the-badge&logo=mlops&logoColor=ed30cf"></a>
-  </div>
-</p>
-<br>
+### Estudando e Explorando
+- Large Language Models (LLMs)  
+- Deep Learning  
+- Prompt Engineering  
 
-<h2 align="center">Formação Acadêmica</h2>
+---
 
-<p align="center">
-  <div style="display: inline_block">
-    <a href="#"><img src="https://img.shields.io/badge/MBA%20em%20Engenharia%20de%20Software-0D1117?style=for-the-badge&logo=school&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Ciência%20de%20Dados-0D1117?style=for-the-badge&logo=science&logoColor=ed30cf"></a>
-  </div>
-</p>
-<br>
+## GitHub Status
 
-<h2 align="center">Interesses de Estudo Futuro</h2>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deboraKa&show_icons=true&theme=radical)
 
-<p align="center">
-  <div style="display: inline_block">
-    <a href="#"><img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=ed30cf"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Engenharia%20de%20Dados-0D1117?style=for-the-badge&logo=data&logoColor=ed30cf"></a>
-  </div>
-</p>
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed30cf&height=90&section=footer" />
-</div>
+## Projetos em Destaque
+
+
+
+📌 **Projeto 1 - Laboratório de Cotação de Câmbio**  
+[Laboratório de Cotação de Câmbio](https://github.com/deboraKa/Projetos_BancoDeDados): 
+Desenvolvimento de um pipeline para extração e processamento de dados da API do Banco Central, gerando relatórios semanais sobre a cotação do dólar e suas variações.  
+
+📌 **Contribuição - Projeto Menu Restaurante**  
+[Projeto Menu Restaurante](https://github.com/GabiSScheidt/Projeto_MenuRestaurante): Projeto colaborativo focado no desenvolvimento de um sistema de gerenciamento de pedidos para restaurantes, utilizando boas práticas.  
+
+---
+ 
+
+📌 **[Mais Projetos](https://github.com/deboraKa?tab=repositories)**  
+
+---
+
+## Contato
+
+📧 **Email:** [dkc.cassimiro@gmail.com](mailto:dkc.cassimiro@gmail.com)  
+💼 **LinkedIn:** [deboracassimiro](https://www.linkedin.com/in/deboracassimiro/)  
+🌐 **Portfólio:** [Em desenvolvimento](https://seusite.com)  
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ed30cf&height=90&section=footer"/>
