@@ -58,7 +58,15 @@
 Desenvolvimento de um pipeline para extração e processamento de dados da API do Banco Central, gerando relatórios semanais sobre a cotação do dólar e suas variações.  
 
 📌 **Contribuição - Projeto Menu Restaurante**  
-[Projeto Menu Restaurante](https://github.com/GabiSScheidt/Projeto_MenuRestaurante): Projeto colaborativo focado no desenvolvimento de um sistema de gerenciamento de pedidos para restaurantes, utilizando boas práticas.  
+---
+
+## Contribuições
+
+- [Projeto Menu Restaurante](https://github.com/GabiSScheidt/Projeto_MenuRestaurante): Projeto colaborativo focado no desenvolvimento de um sistema de gerenciamento de pedidos para restaurantes, utilizando boas práticas e tecnologias modernas.  
+- 🌐 [Acesse o site do projeto aqui](https://gabisscheidt.github.io/Projeto_MenuRestaurante/index.html)
+
+---
+ 
 
 ---
  
