@@ -1,85 +1,77 @@
 <div align="center">
-  <h1>Olá, eu sou a Débora Karine Cassimiro! 👋</h1>
+  <h1>Débora Karine Cassimiro</h1>
+  <h3>Analista de Dados em Formação | Banco de Dados • Python • SQL</h3>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ed30cf&height=90&section=header" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&weight=500&color=f12385&size=20&center=true&vCenter=true&width=1000&lines=Bem-vindo!+Explore+meus+projetos+e+interesses!)](https://git.io/typing-svg)
+---
+
+## 🎯 Sobre Mim
+
+Sou estudante de **Gestão Comercial**, formada em **Banco de Dados** e pós-graduada em **Engenharia de Software**.
+
+Minha formação combina:
+- 📊 Visão estratégica de negócios
+- 🗄 Estruturação e modelagem de dados
+- ⚙️ Desenvolvimento e boas práticas de software
+
+Atuo com foco em **Análise de Dados aplicada à tomada de decisão**, unindo conhecimento técnico e visão comercial.
 
 ---
 
-## Sobre mim
+## 🎓 Formação Acadêmica
 
-🎓 **Formação Acadêmica**  
-- MBA em Engenharia de Software (Cursando)  
-- Formação em Ciência de Dados  
-
-💻 **Áreas de Interesse**  
-- Inteligência Artificial  
-- Cloud Computing 
-- Modelos de Linguagem (LLMs) e IA Generativa  
-
-📚 **Estudando atualmente**  
-- AWS Cloud Practitioner  
-- Deep Learning  
-- Prompt Engineering  
-- Inglês  
+- Gestão Comercial – FATEC (Cursando)
+- Formação em Banco de Dados
+- Pós-graduação em Engenharia de Software
 
 ---
 
-## Tecnologias e Ferramentas
+## 📊 Competências em Dados
 
-### Linguagens e Ferramentas Principais
+### Linguagens
 - Python  
 - SQL  
-- Linux  
-- Git  
-- Cloud Computing  
-- Inteligência Artificial  
 
-### Estudando e Explorando
-- Large Language Models (LLMs)  
-- Deep Learning  
-- Prompt Engineering  
+### Análise e Tratamento de Dados
+- Limpeza e transformação de dados  
+- Consultas avançadas (JOIN, GROUP BY, Subqueries)  
+- Modelagem relacional  
+- Estruturação de banco de dados  
 
----
-
-## GitHub Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deboraKa&show_icons=true&theme=radical)
+### Engenharia e Boas Práticas
+- Versionamento com Git  
+- Organização de código  
+- Estruturação de projetos  
+- Conceitos de ETL  
 
 ---
 
-## Projetos em Destaque
+## 📂 Projeto em Destaque
 
+### 📌 Laboratório de Cotação de Câmbio  
+🔗 https://github.com/deboraKa/Projetos_BancoDeDados  
 
+Pipeline para extração de dados da API do Banco Central, tratamento das informações e geração de relatórios semanais da cotação do dólar.
 
-📌 **Projeto 1 - Laboratório de Cotação de Câmbio**  
-[Laboratório de Cotação de Câmbio](https://github.com/deboraKa/Projetos_BancoDeDados): 
-Desenvolvimento de um pipeline para extração e processamento de dados da API do Banco Central, gerando relatórios semanais sobre a cotação do dólar e suas variações.  
-
-📌 **Contribuição - Projeto Menu Restaurante**  
----
-
-## Contribuições
-
-- [Projeto Menu Restaurante](https://github.com/GabiSScheidt/Projeto_MenuRestaurante): Projeto colaborativo focado no desenvolvimento de um sistema de gerenciamento de pedidos para restaurantes, utilizando boas práticas e tecnologias modernas.  
-- 🌐 [Acesse o site do projeto aqui](https://gabisscheidt.github.io/Projeto_MenuRestaurante/index.html)
-
----
- 
-
----
- 
-
-📌 **[Mais Projetos](https://github.com/deboraKa?tab=repositories)**  
+**Competências aplicadas:**
+- Consumo de API  
+- Manipulação de dados  
+- Automação  
+- Organização de banco de dados  
 
 ---
 
-## Contato
+## 🚀 Objetivo Profissional
 
-📧 **Email:** [dkc.cassimiro@gmail.com](mailto:dkc.cassimiro@gmail.com)  
-💼 **LinkedIn:** [deboracassimiro](https://www.linkedin.com/in/deboracassimiro/)  
-🌐 **Portfólio:** [Em desenvolvimento](https://seusite.com)  
+Atuar como **Analista de Dados Júnior**, aplicando análise exploratória, estruturação de dados e geração de insights estratégicos para apoiar decisões comerciais e empresariais.
+
+---
+
+## 📬 Contato
+
+📧 dkc.cassimiro@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/deboracassimiro/  
 
 ---
 
